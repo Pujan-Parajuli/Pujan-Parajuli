@@ -1,6 +1,6 @@
 # Hi there, I'm **Pujan Parajuli** 👋
 
-![Header Image](https://media.giphy.com/media/xT0GqHL9lSMuwN8j48/giphy.gif)
+![Header Image]([https://media.giphy.com/media/xT0GqHL9lSMuwN8j48/giphy.gif](https://media.giphy.com/media/mtzCPgXqC9GEg/giphy.gif?cid=790b7611d4fjgdue4cd6ph8dbrjyjrctbr3htxguv9j71dww&ep=v1_gifs_search&rid=giphy.gif&ct=g))
 
 I'm a passionate **Machine Learning / AI Enthusiast** 🚀, currently pursuing my Bachelor's in Engineering from **Sagarmatha Engineering College**. I am particularly interested in developing and exploring AI/ML models to solve real-world problems.
 
@@ -45,7 +45,7 @@ I'm a passionate **Machine Learning / AI Enthusiast** 🚀, currently pursuing m
 
 ## 🎯 **My Latest Projects:**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pujan-Parajuli&repo=my-project)](https://github.com/Pujan-Parajuli/my-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pujan-Parajuli&repo=my-project)](https://github.com/Pujan-Parajuli/Tic-Tac-Toe)
 
 Feel free to explore my repositories, and don't forget to ⭐️ your favorite ones!
 
