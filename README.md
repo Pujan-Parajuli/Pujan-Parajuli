@@ -33,19 +33,19 @@ I'm a passionate **Machine Learning / AI Enthusiast** 🚀, currently pursuing m
 ---
 
 ## 🔥 **GitHub Stats & Insights**  
-![Pujan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pujanparajuli&show_icons=true&count_private=true&hide=prs&theme=dark)
+![Pujan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pujan-Parajuli&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 ---
 
 ## 📊 **Top Languages:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pujanparajuli&layout=compact&theme=dark)](https://github.com/pujanparajuli)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pujan-Parajuli&layout=compact&theme=dark)](https://github.com/pujanparajuli)
 
 ---
 
 ## 🎯 **My Latest Projects:**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pujanparajuli&repo=my-project)](https://github.com/pujanparajuli/my-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pujan-Parajuli&repo=my-project)](https://github.com/pujanparajuli/my-project)
 
 Feel free to explore my repositories, and don't forget to ⭐️ your favorite ones!
 
